@@ -1,2 +1,2 @@
-# es50_final_project
+# ES50 Final Project
 Final project for Harvard's Introduction to Electrical Engineering
